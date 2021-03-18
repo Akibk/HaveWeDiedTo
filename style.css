@@ -1,0 +1,15 @@
+h1 {
+	display: block;
+	font-size: 2em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 15em;
+	text-align: center;
+}
+
+body {
+	background-color: coral;
+}
+
